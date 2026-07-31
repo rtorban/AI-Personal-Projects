@@ -1,4 +1,4 @@
-# torban.me — Portfolio Redesign
+# Portfolio Redesign
 
 A ground up redesign of a portfolio site, repositioning it from a generic corporate template PMO page into an AI forward, evidence backed personal brand site, built as a custom WordPress theme with a parallel static HTML reference build.
 
